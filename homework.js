@@ -111,5 +111,5 @@ function selectionSort(nums) {
 //output: `"Cadence,Ordel,Marion"`
 
 function textList(nums) {
-    
+    return nums.join(',')
 }
